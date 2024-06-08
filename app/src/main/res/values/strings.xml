@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="welcome_message">Tempat untuk membagikan cerita dan momen anda</string>
+    <string name="welcome_text">Selamat datang di Story App</string>
+    <string name="login_message">Mohon masukan data anda</string>
+    <string name="login_text">Sudah siap untuk berbagi cerita?</string>
+    <string name="main_message">Ini adalah Story App</string>
+    <string name="register_text">Mohon lengkapi data diri anda di bawah ini</string>
+    <string name="title_stories">Cerita</string>
+    <string name="title_maps">Peta</string>
+
+
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="caption">Tuliskan cerita anda</string>
+    <string name="retry">Coba lagi</string>
+
+    <string name="error_empty_name">Please insert your name</string>
+    <string name="error_empty_email">Please insert your email</string>
+    <string name="error_empty_image">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="error_empty_password">Please insert your password</string>
+    <string name="error_empty_caption">Mohon berikan keterangan tentang gambar</string>
+    <string name="error_invalid_email">The email is invalid</string>
+    <string name="error_password_more_7">Password must more than 7 character</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
